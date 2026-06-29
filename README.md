@@ -22,7 +22,7 @@ Octavia 서비스 상태 확인 및 재시작 명령 제공
 
 ## 사용법
 
-bash./loadbalancer-manager
+./loadbalancer-manager
 
 OpenStack 연동 기능은 ~/contrabass-openrc 또는
 LB_MANAGER_OPENSTACK_OPENRC 환경변수로 openrc 경로를 지정하세요.
